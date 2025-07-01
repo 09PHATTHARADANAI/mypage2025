@@ -31,3 +31,12 @@ table {
   tfoot td {
    font-weight: bold;
  }
+img {
+
+  width: 20%; 
+
+ height: auto;
+
+  border-radius: 50%;
+
+}
